@@ -1,0 +1,12 @@
+
+.Northern , .Southern{
+    display: flex;
+    justify-content: center;
+    text-align:center;
+    height: 90vh;
+    /* background-color: #EE82EE; */
+}
+
+.containercss{
+    margin-top: 6em;
+}
